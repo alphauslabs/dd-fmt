@@ -14,8 +14,10 @@ For consistency though, try using the suggested format below:
 
 Sample title
 
+```
 Author(s): Name1[, Name2, ...]
 Created: yyyy-mm-dd
+```
 
 ### Introduction
 
