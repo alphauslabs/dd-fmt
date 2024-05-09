@@ -8,9 +8,7 @@ A DD is an informal document and thus, doesn’t follow a strict guideline for i
 
 For consistency though, try using the suggested format below:
 
-```
-start
-```
+---
 
 ### Title
 
@@ -35,9 +33,7 @@ This section lists alternative designs that would have reasonably achieved simil
 
 Mention the trade-offs considered during the design. Include concerns regarding security, privacy, observability, etc. Also include how the design impacts these concerns and how they are being addressed.
 
-```
-end
-```
+---
 
 ## Length
 
