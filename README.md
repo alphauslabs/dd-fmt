@@ -8,11 +8,36 @@ A DD is an informal document and thus, doesn’t follow a strict guideline for i
 
 For consistency though, try using the suggested format below:
 
----
+```
+start
+```
 
-TBD
+### Title
 
----
+Sample title
+
+Author(s): Name1[, Name2, ...]
+Created: yyyy-mm-dd
+
+### Introduction
+
+Background, overview, context, goals, non-goals, etc.
+
+### Design
+
+The main design contents. Start with higher level design then go into details. You may include details about system diagrams, APIs (if an API is exposed), storage, etc.
+
+### Alternatives considered
+
+This section lists alternative designs that would have reasonably achieved similar outcomes. The focus should be on the trade-offs that each respective design makes and how those trade-offs led to the decision to select the design that is the primary topic of the document.
+
+### Trade-offs and concerns
+
+Mention the trade-offs considered during the design. Include concerns regarding security, privacy, observability, etc. Also include how the design impacts these concerns and how they are being addressed.
+
+```
+end
+```
 
 ## Length
 
