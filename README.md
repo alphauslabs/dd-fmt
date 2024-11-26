@@ -39,4 +39,4 @@ Mention the trade-offs considered during the design. Include concerns regarding 
 
 ## Length
 
-A DD should be sufficiently detailed but short enough to actually be read by busy people. The sweet spot for a larger project might be around 10-20ish pages. If you get way beyond that, it might make sense to split up the problem into more manageable sub problems. It should also be noted that it is absolutely possible to write a 1-3 page DD, even a single-pager.
+A DD should be sufficiently detailed but short enough to actually be read by busy people. The sweet spot for a larger project might be around 10-20ish pages. If you get way beyond that, it might make sense to split up the problem into more manageable sub-problems. It should also be noted that it is absolutely possible to write a 1-3 page DD, even a single-pager.
